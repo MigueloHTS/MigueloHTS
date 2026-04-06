@@ -6,7 +6,4 @@
 
 ## Vias de contacto
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MigueloHTS/MigueloHTS)
-
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmiguel0315torres%2F&up_message=visit&up_color=blue&down_message=visit&down_color=blue&logo=LinkedIn&label=LinkedIn)
-
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FMigueloHTS&label=MigueloHTS)
